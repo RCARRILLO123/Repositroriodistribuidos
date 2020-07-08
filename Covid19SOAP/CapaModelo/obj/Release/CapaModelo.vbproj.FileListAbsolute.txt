@@ -1,0 +1,9 @@
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\CapaModelo\bin\Release\CapaModelo.dll
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\CapaModelo\bin\Release\CapaModelo.pdb
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\CapaModelo\bin\Release\CapaModelo.xml
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\CapaModelo\obj\Release\CapaModelo.Resources.resources
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\CapaModelo\obj\Release\CapaModelo.vbproj.GenerateResource.cache
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\CapaModelo\obj\Release\CapaModelo.vbproj.CoreCompileInputs.cache
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\CapaModelo\obj\Release\CapaModelo.dll
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\CapaModelo\obj\Release\CapaModelo.xml
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\CapaModelo\obj\Release\CapaModelo.pdb

@@ -1,0 +1,5 @@
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\Helper\bin\Release\Helper.dll
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\Helper\bin\Release\Helper.pdb
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\Helper\obj\Release\Helper.csproj.CoreCompileInputs.cache
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\Helper\obj\Release\Helper.dll
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\Helper\obj\Release\Helper.pdb

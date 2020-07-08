@@ -1,0 +1,12 @@
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\Helper\bin\Debug\Helper.dll
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\Helper\bin\Debug\Helper.pdb
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\Helper\obj\Debug\Helper.dll
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\Helper\obj\Debug\Helper.pdb
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\Helper\obj\Debug\Helper.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ConsultaTrabajadoresWS-QAS\Helper\bin\Debug\Helper.dll
+C:\Users\User\Desktop\ConsultaTrabajadoresWS-QAS\Helper\bin\Debug\Helper.pdb
+C:\Users\User\Desktop\ConsultaTrabajadoresWS-QAS\Helper\obj\Debug\Helper.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ConsultaTrabajadoresWS-QAS\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ConsultaTrabajadoresWS-QAS\Helper\obj\Debug\Helper.dll
+C:\Users\User\Desktop\ConsultaTrabajadoresWS-QAS\Helper\obj\Debug\Helper.pdb

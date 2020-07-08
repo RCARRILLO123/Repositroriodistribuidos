@@ -1,0 +1,15 @@
+11:13:02-ERROR ====> --Consulta zwshr_trabajador--
+11:13:38-ERROR ====> --Fin consulta zwshr_trabajador Time elapsed milisegundos: 35541
+11:14:18---Consulta ws hanna--
+11:16:16-ERROR ====> --Fin consulta ws hanna Time elapsed milisegundos: 116567
+11:16:31-ERROR ====> --Consulta zwshr_trabajador--
+11:16:52-ERROR ====> --Fin consulta zwshr_trabajador Time elapsed milisegundos: 20515
+11:16:52---Consulta ws hanna--
+11:17:07-ERROR ====> --Fin consulta ws hanna Time elapsed milisegundos: 15007
+11:21:34-ERROR ====> --Consulta zwshr_trabajador--
+11:21:52-ERROR ====> --Fin consulta zwshr_trabajador Time elapsed milisegundos: 18352
+11:21:52---Consulta ws hanna--
+11:22:03-ERROR ====> --Fin consulta ws hanna Time elapsed milisegundos: 10255
+20:32:45-ERROR ====> --Consulta zwshr_trabajador--
+20:32:49-ERROR ====> --Fin consulta zwshr_trabajador Time elapsed milisegundos: 3445
+20:32:49---Consulta ws hanna--

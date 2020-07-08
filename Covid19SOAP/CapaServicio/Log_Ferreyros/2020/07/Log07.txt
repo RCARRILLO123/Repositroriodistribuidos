@@ -1,0 +1,11 @@
+20:27:27-ERROR ====> --Consulta zwshr_trabajador--
+20:27:28-ERROR ====> --Fin consulta zwshr_trabajador Time elapsed milisegundos: 851
+20:27:28---Consulta ws hanna--
+20:27:28-ERROR ====> Se ha terminado la conexión: No se puede establecer una relación de confianza para el canal seguro SSL/TLS.
+20:27:28-ERROR ====> --Fin consulta ws hanna Time elapsed milisegundos: 676
+20:27:37-ERROR ====> --Consulta zwshr_trabajador--
+20:27:37-ERROR ====> Anulada la solicitud: La solicitud fue cancelada.
+20:27:37-ERROR ====> --Fin consulta zwshr_trabajador Time elapsed milisegundos: 138
+20:27:52-ERROR ====> --Consulta zwshr_trabajador--
+20:27:52-ERROR ====> Anulada la solicitud: La solicitud fue cancelada.
+20:27:52-ERROR ====> --Fin consulta zwshr_trabajador Time elapsed milisegundos: 145

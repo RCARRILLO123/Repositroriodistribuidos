@@ -1,0 +1,14 @@
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\CapaDatos\bin\Release\AccesoDatos.dll
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\CapaDatos\bin\Release\AccesoDatos.pdb
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\CapaDatos\bin\Release\AccesoDatos.xml
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\CapaDatos\bin\Release\CapaModelo.dll
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\CapaDatos\bin\Release\CapaModelo.pdb
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\CapaDatos\bin\Release\CapaModelo.xml
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\CapaDatos\obj\Release\CapaDatos.vbprojAssemblyReference.cache
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\CapaDatos\obj\Release\AccesoDatos.Resources.resources
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\CapaDatos\obj\Release\CapaDatos.vbproj.GenerateResource.cache
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\CapaDatos\obj\Release\CapaDatos.vbproj.CoreCompileInputs.cache
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\CapaDatos\obj\Release\CapaDatos.vbproj.CopyComplete
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\CapaDatos\obj\Release\AccesoDatos.dll
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\CapaDatos\obj\Release\AccesoDatos.xml
+D:\FCORP_INFRAESTRUCTURA\ConsultarTrabajadorWS\ConsultaTrabajadoresWS-QAS\CapaDatos\obj\Release\AccesoDatos.pdb

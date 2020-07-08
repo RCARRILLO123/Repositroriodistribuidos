@@ -1,0 +1,35 @@
+10:56:56---Consulta zwshr_trabajador--
+10:59:15-ERROR ====> --Consulta zwshr_trabajador--
+11:00:41-ERROR ====> --Consulta zwshr_trabajador--
+11:01:50-ERROR ====> --Consulta zwshr_trabajador--
+11:01:53-ERROR ====> Se ha terminado la conexión: Una conexión que se esperaba que se mantuviera activa fue cerrada por el servidor.
+11:04:49-ERROR ====> --Consulta zwshr_trabajador--
+11:04:49---Consulta ws hanna--
+11:05:31-ERROR ====> --Consulta zwshr_trabajador--
+11:05:31---Consulta ws hanna--
+11:05:47-ERROR ====> --Consulta zwshr_trabajador--
+11:05:47---Consulta ws hanna--
+11:07:58-ERROR ====> --Consulta zwshr_trabajador--
+11:08:07---Consulta ws hanna--
+11:13:05-ERROR ====> --Consulta zwshr_trabajador--
+11:18:33-ERROR ====> --Consulta zwshr_trabajador--
+11:31:43-ERROR ====> --Consulta zwshr_trabajador--
+11:31:58-ERROR ====> 5786
+11:35:39-ERROR ====> --Consulta zwshr_trabajador--
+11:35:47-ERROR ====> --Fin consulta zwshr_trabajador 7031
+11:35:59---Consulta ws hanna--
+11:36:24-ERROR ====> --Fin consulta ws hanna 15174
+11:37:59-ERROR ====> --Consulta zwshr_trabajador--
+11:38:00-ERROR ====> --Fin consulta zwshr_trabajador Time elapsed milisegundos: 1181
+11:38:00---Consulta ws hanna--
+11:38:04-ERROR ====> --Fin consulta ws hanna Time elapsed milisegundos: 4204
+11:50:33-ERROR ====> --Consulta zwshr_trabajador--
+11:50:41-ERROR ====> --Fin consulta zwshr_trabajador Time elapsed milisegundos: 7052
+11:50:46---Consulta ws hanna--
+11:51:14-ERROR ====> --Fin consulta ws hanna Time elapsed milisegundos: 22565
+11:53:54-ERROR ====> --Consulta zwshr_trabajador--
+11:53:57-ERROR ====> --Fin consulta zwshr_trabajador Time elapsed milisegundos: 3552
+11:53:57---Consulta ws hanna--
+12:15:29-ERROR ====> --Consulta zwshr_trabajador--
+12:15:32-ERROR ====> --Fin consulta zwshr_trabajador Time elapsed milisegundos: 3948
+12:15:32---Consulta ws hanna--

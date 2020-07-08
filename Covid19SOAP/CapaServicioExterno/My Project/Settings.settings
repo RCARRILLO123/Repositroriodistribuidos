@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ServicioExterno_EccService_SERVICETRABAJADOR" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://fsaerpdev01.dominio.ferreyros.com.pe:1080/sap/bc/srt/rfc/sap/zwshr_trabajador_pe/100/servicetrabajador/servicetrabajador</Value>
+    </Setting>
+    <Setting Name="ServicioExterno_wsUnidadesOrganizativas_SI_OS_CONSULTA_UNIDAD_ORGANIZATIVAService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://vhfryfpdci.hec.ferreycorp.com.pe:50000/XISOAPAdapter/MessageServlet?senderParty=&amp;senderService=BS_FCORP_HCM_LEGACY_DEV&amp;receiverParty=&amp;receiverService=&amp;interface=SI_OS_CONSULTA_UNIDAD_ORGANIZATIVA&amp;interfaceNamespace=https%3A%2F%2Fwww.ferreycorp.com.pe%2FHCM_LEGACY%2FConsultaTrabajadores%2FHCM_PT-I-004</Value>
+    </Setting>
+    <Setting Name="ServicioExterno_HanaService_SI_OS_CONSULTA_DATOS_TRABAJADORESService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://vhfryfpdci.hec.ferreycorp.com.pe:50000/XISOAPAdapter/MessageServlet?senderParty=&amp;senderService=BS_FCORP_HCM_LEGACY_DEV&amp;receiverParty=&amp;receiverService=&amp;interface=SI_OS_CONSULTA_DATOS_TRABAJADORES&amp;interfaceNamespace=https%3A%2F%2Fwww.ferreycorp.com.pe%2FHCM_LEGACY%2FConsultaTrabajadores%2FHCM_PT-I-004</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

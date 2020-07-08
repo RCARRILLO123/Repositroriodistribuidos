@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="https://vhfryfpdci.hec.ferreycorp.com.pe:50001/dir/wsdl?p=ic/61aae422e66e3f1aa82da4ff875969c9" filename="SI_OS_CONSULTA_UNIDAD_ORGANIZATIVA.wsdl" />
+  </Results>
+</DiscoveryClientResultsFile>

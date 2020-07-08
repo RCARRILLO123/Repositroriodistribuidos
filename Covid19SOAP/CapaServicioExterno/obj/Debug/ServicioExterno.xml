@@ -1,0 +1,950 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ServicioExterno
+</name>
+</assembly>
+<members>
+<member name="T:ServicioExterno.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ServicioExterno.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ServicioExterno.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:ServicioExterno.EccService.SERVICETRABAJADOR">
+<remarks/>
+</member>
+<member name="M:ServicioExterno.EccService.SERVICETRABAJADOR.#ctor">
+<remarks/>
+</member>
+<member name="E:ServicioExterno.EccService.SERVICETRABAJADOR.ConsultarUnidorgCompleted">
+<remarks/>
+</member>
+<member name="E:ServicioExterno.EccService.SERVICETRABAJADOR.ValidaTrabCompleted">
+<remarks/>
+</member>
+<member name="E:ServicioExterno.EccService.SERVICETRABAJADOR.ZfmhrConsultaJornalPeCompleted">
+<remarks/>
+</member>
+<member name="E:ServicioExterno.EccService.SERVICETRABAJADOR.ConsultaTrabCompleted">
+<remarks/>
+</member>
+<member name="M:ServicioExterno.EccService.SERVICETRABAJADOR.ConsultarUnidorg(ServicioExterno.EccService.ConsultarUnidorg)">
+<remarks/>
+</member>
+<member name="M:ServicioExterno.EccService.SERVICETRABAJADOR.ConsultarUnidorgAsync(ServicioExterno.EccService.ConsultarUnidorg)">
+<remarks/>
+</member>
+<member name="M:ServicioExterno.EccService.SERVICETRABAJADOR.ConsultarUnidorgAsync(ServicioExterno.EccService.ConsultarUnidorg,System.Object)">
+<remarks/>
+</member>
+<member name="M:ServicioExterno.EccService.SERVICETRABAJADOR.ValidaTrab(ServicioExterno.EccService.ValidaTrab)">
+<remarks/>
+</member>
+<member name="M:ServicioExterno.EccService.SERVICETRABAJADOR.ValidaTrabAsync(ServicioExterno.EccService.ValidaTrab)">
+<remarks/>
+</member>
+<member name="M:ServicioExterno.EccService.SERVICETRABAJADOR.ValidaTrabAsync(ServicioExterno.EccService.ValidaTrab,System.Object)">
+<remarks/>
+</member>
+<member name="M:ServicioExterno.EccService.SERVICETRABAJADOR.ZfmhrConsultaJornalPe(ServicioExterno.EccService.ZfmhrConsultaJornalPe)">
+<remarks/>
+</member>
+<member name="M:ServicioExterno.EccService.SERVICETRABAJADOR.ZfmhrConsultaJornalPeAsync(ServicioExterno.EccService.ZfmhrConsultaJornalPe)">
+<remarks/>
+</member>
+<member name="M:ServicioExterno.EccService.SERVICETRABAJADOR.ZfmhrConsultaJornalPeAsync(ServicioExterno.EccService.ZfmhrConsultaJornalPe,System.Object)">
+<remarks/>
+</member>
+<member name="M:ServicioExterno.EccService.SERVICETRABAJADOR.ConsultaTrab(ServicioExterno.EccService.ConsultaTrab)">
+<remarks/>
+</member>
+<member name="M:ServicioExterno.EccService.SERVICETRABAJADOR.ConsultaTrabAsync(ServicioExterno.EccService.ConsultaTrab)">
+<remarks/>
+</member>
+<member name="M:ServicioExterno.EccService.SERVICETRABAJADOR.ConsultaTrabAsync(ServicioExterno.EccService.ConsultaTrab,System.Object)">
+<remarks/>
+</member>
+<member name="M:ServicioExterno.EccService.SERVICETRABAJADOR.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.EccService.ConsultarUnidorg">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultarUnidorg.DesUnidadOrg">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultarUnidorg.Responsable">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultarUnidorg.Situacion_Funciones">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultarUnidorg.Sociedad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultarUnidorg.TUnidadOrg">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultarUnidorg.UnidadOrg">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultarUnidorg.UnidadOrgSup">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.EccService.ZundOrganizativ">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ZundOrganizativ.Mandt">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ZundOrganizativ.Corporacion">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ZundOrganizativ.Sociedad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ZundOrganizativ.UnidadOrganizat">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ZundOrganizativ.UnidOrganizSup">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ZundOrganizativ.DescUnidadOrga">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ZundOrganizativ.CodigoResponsab">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ZundOrganizativ.Funciones">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ZundOrganizativ.SitUnidFunc">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ZundOrganizativ.Nivel">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.EccService.Ztrabajadores">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.Mandt">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.Corporacion">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.Sociedad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.NombreSociedad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.Codigo">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.NombreCompleto">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.Nombre">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.ApellidoPaterno">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.ApellidoMaterno">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.TipoDocumento">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.NumeroDocumento">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.Sexo">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.EstadoCivil">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.FechaIngreso">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.UnidadOrganizat">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.DescUnidadOrga">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.CentroCosto">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.DescCentroCost">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.DivisionPersona">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.DescDivisionPe">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.SubdivisionPers">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.DescSubdivision">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.Posicion">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.DescPosicion">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.AreaPersonal">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.DescAreaPerson">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.SituacionTrabaj">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.FechaNacimiento">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.FechaCumpleanos">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.EmailTrabajo">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.FechaRetiro">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.CodigoJefe">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.NombreJefe">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.AreafeUnidad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.AreafeUnides">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.AreafeCodres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.AreafeDesres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.SubgerUnidad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.SubgerUnides">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.SubgerCodres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.SubgerDesres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.GerencUnidad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.GerencUnides">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.GerencCodres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.GerencDesres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.GerdivUnidad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.GerdivUnides">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.GerdivCodres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.GerdivDesres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.GercenUnidad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.GercenUnides">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.GercenCodres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.GercenDesres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.GergenUnidad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.GergenUnides">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.GergenCodres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.GergenDesres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.GercorUnidad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.GercorUnides">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.GercorCodres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.GercorDesres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.GegcorUnidad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.GegcorUnides">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.GegcorCodres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.GegcorDesres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.PrecorUnidad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.PrecorUnides">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.PrecorCodres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.PrecorDesres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.CodigoAutogener">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.LugarComercial">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.DireccEstablec">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.IndMecaViaje">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.CwsId">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Ztrabajadores.CupId">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.EccService.ZhccpeStJornal">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ZhccpeStJornal.Pernr">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ZhccpeStJornal.Jorna">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.EccService.Zmerchandising">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Zmerchandising.Sociedad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Zmerchandising.NombreSociedad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Zmerchandising.Codigo">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Zmerchandising.Nombre">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Zmerchandising.ApellidoPaterno">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Zmerchandising.ApellidoMaterno">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Zmerchandising.DescDivisionPe">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Zmerchandising.SubdPers">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Zmerchandising.FechaCumpleanos">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Zmerchandising.EmailTrabajo">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Zmerchandising.TipoDocumento">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.Zmerchandising.NumeroDocumento">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.EccService.ConsultarUnidorgResponse">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultarUnidorgResponse.TUnidadOrg">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.EccService.ValidaTrab">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ValidaTrab.PNumeroDocumento">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ValidaTrab.PTipoDocumento">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ValidaTrab.TiTrabajador">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.EccService.ValidaTrabResponse">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ValidaTrabResponse.TiTrabajador">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.EccService.ZfmhrConsultaJornalPe">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ZfmhrConsultaJornalPe.TiJornal">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.EccService.ZfmhrConsultaJornalPeResponse">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ZfmhrConsultaJornalPeResponse.TiJornal">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.EccService.ConsultaTrab">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultaTrab.AreaPersonal">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultaTrab.CentroCosto">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultaTrab.Codigo">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultaTrab.CodigoAutogenerado">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultaTrab.DivisionPersona">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultaTrab.EstadoCivil">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultaTrab.FechaIngreso">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultaTrab.Fechacumpleanos">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultaTrab.Nombre">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultaTrab.NumeroDocumento">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultaTrab.Posicion">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultaTrab.Sexo">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultaTrab.Sociedad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultaTrab.SubdivisionPers">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultaTrab.Ttrabajador">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultaTrab.UnidadOrganizat">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.EccService.ConsultaTrabResponse">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultaTrabResponse.Ttrabajador">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.EccService.ConsultarUnidorgCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.EccService.ConsultarUnidorgCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultarUnidorgCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.EccService.ValidaTrabCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.EccService.ValidaTrabCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ValidaTrabCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.EccService.ZfmhrConsultaJornalPeCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.EccService.ZfmhrConsultaJornalPeCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ZfmhrConsultaJornalPeCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.EccService.ConsultaTrabCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.EccService.ConsultaTrabCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.EccService.ConsultaTrabCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.HanaService.SI_OS_CONSULTA_DATOS_TRABAJADORESService">
+<remarks/>
+</member>
+<member name="M:ServicioExterno.HanaService.SI_OS_CONSULTA_DATOS_TRABAJADORESService.#ctor">
+<remarks/>
+</member>
+<member name="E:ServicioExterno.HanaService.SI_OS_CONSULTA_DATOS_TRABAJADORESService.SI_OS_CONSULTA_DATOS_TRABAJADORESCompleted">
+<remarks/>
+</member>
+<member name="M:ServicioExterno.HanaService.SI_OS_CONSULTA_DATOS_TRABAJADORESService.SI_OS_CONSULTA_DATOS_TRABAJADORES(ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_REQ)">
+<remarks/>
+</member>
+<member name="M:ServicioExterno.HanaService.SI_OS_CONSULTA_DATOS_TRABAJADORESService.SI_OS_CONSULTA_DATOS_TRABAJADORESAsync(ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_REQ)">
+<remarks/>
+</member>
+<member name="M:ServicioExterno.HanaService.SI_OS_CONSULTA_DATOS_TRABAJADORESService.SI_OS_CONSULTA_DATOS_TRABAJADORESAsync(ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_REQ,System.Object)">
+<remarks/>
+</member>
+<member name="M:ServicioExterno.HanaService.SI_OS_CONSULTA_DATOS_TRABAJADORESService.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_REQ">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_REQ.Sociedad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_REQ.Codigo">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_REQ.NumeroDocumento">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_REQ.Sexo">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_REQ.EstadoCivil">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_REQ.FechaIngreso">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_REQ.FechaIngresoSpecified">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_REQ.Unidad_Organizat">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_REQ.CentroCosto">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_REQ.DivisionPersona">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_REQ.SubdivisionPersona">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_REQ.Posicion">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_REQ.AreaPersonal">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_REQ.Nombre">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_REQ.CodigoAutoGen">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_REQ.FechaCumple">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RES">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RES.TI_ZTRABAJADORES">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RES.return">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Mandt">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Corporacion">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Sociedad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Nombre_Sociedad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Codigo">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Nombre_Completo">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Nombre">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Apellido_Paterno">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Apellido_Materno">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Tipo_Documento">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Numero_Documento">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Sexo">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Estado_Civil">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Fecha_Ingreso">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Unidad_Organizat">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Desc_Unidad_Orga">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Centro_Costo">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Desc_Centro_Cost">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Division_Persona">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Desc_Division_Pe">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Subdivision_Pers">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Desc_Subdivision">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Posicion">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Desc_Posicion">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Area_Personal">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Desc_Area_Person">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Situacion_Trabaj">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Fecha_Nacimiento">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Fecha_Cumpleanos">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Email_Trabajo">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Fecha_Retiro">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Codigo_Jefe">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Nombre_Jefe">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.AreaFe_Unidad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.AreaFe_Unides">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.AreaFe_Codres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.AreaFe_Desres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.SubGer_Unidad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.SubGer_Unides">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.SubGer_Codres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.SubGer_Desres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Gerenc_Unidad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Gerenc_Unides">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Gerenc_Codres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Gerenc_Desres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.GerDiv_Unidad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.GerDiv_Unides">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.GerDiv_Codres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.GerDiv_Desres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.GerCen_Unidad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.GerCen_Unides">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.GerCen_Codres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.GerCen_Desres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.GerGen_Unidad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.GerGen_Unides">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.GerGen_Codres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.GerGen_Desres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.GerCor_Unidad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.GerCor_Unides">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.GerCor_Codres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.GerCor_Desres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.GegCor_Unidad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.GegCor_Unides">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.GegCor_Codres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.GegCor_Desres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Precor_Unidad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Precor_Unides">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Precor_Codres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Precor_Desres">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Codigo_Autogener">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Lugar_Comercial">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Direcc_Establec">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Ind_Meca_Viaje">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Cws_ID">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESTI_ZTRABAJADORES.Cup_ID">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESReturn">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.DT_CONSULTA_DATOSTRABAJADORES_RESReturn.message">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.HanaService.SI_OS_CONSULTA_DATOS_TRABAJADORESCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.HanaService.SI_OS_CONSULTA_DATOS_TRABAJADORESCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.HanaService.SI_OS_CONSULTA_DATOS_TRABAJADORESCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.wsHanaUnidadesOrganizativas.SI_OS_CONSULTA_UNIDAD_ORGANIZATIVAService">
+<remarks/>
+</member>
+<member name="M:ServicioExterno.wsHanaUnidadesOrganizativas.SI_OS_CONSULTA_UNIDAD_ORGANIZATIVAService.#ctor">
+<remarks/>
+</member>
+<member name="E:ServicioExterno.wsHanaUnidadesOrganizativas.SI_OS_CONSULTA_UNIDAD_ORGANIZATIVAService.SI_OS_CONSULTA_UNIDAD_ORGANIZATIVACompleted">
+<remarks/>
+</member>
+<member name="M:ServicioExterno.wsHanaUnidadesOrganizativas.SI_OS_CONSULTA_UNIDAD_ORGANIZATIVAService.SI_OS_CONSULTA_UNIDAD_ORGANIZATIVA(ServicioExterno.wsHanaUnidadesOrganizativas.DT_CONSULTA_UNIDAD_ORGANIZATIVA_REQ)">
+<remarks/>
+</member>
+<member name="M:ServicioExterno.wsHanaUnidadesOrganizativas.SI_OS_CONSULTA_UNIDAD_ORGANIZATIVAService.SI_OS_CONSULTA_UNIDAD_ORGANIZATIVAAsync(ServicioExterno.wsHanaUnidadesOrganizativas.DT_CONSULTA_UNIDAD_ORGANIZATIVA_REQ)">
+<remarks/>
+</member>
+<member name="M:ServicioExterno.wsHanaUnidadesOrganizativas.SI_OS_CONSULTA_UNIDAD_ORGANIZATIVAService.SI_OS_CONSULTA_UNIDAD_ORGANIZATIVAAsync(ServicioExterno.wsHanaUnidadesOrganizativas.DT_CONSULTA_UNIDAD_ORGANIZATIVA_REQ,System.Object)">
+<remarks/>
+</member>
+<member name="M:ServicioExterno.wsHanaUnidadesOrganizativas.SI_OS_CONSULTA_UNIDAD_ORGANIZATIVAService.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.wsHanaUnidadesOrganizativas.DT_CONSULTA_UNIDAD_ORGANIZATIVA_REQ">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.wsHanaUnidadesOrganizativas.DT_CONSULTA_UNIDAD_ORGANIZATIVA_REQ.Unidad_Orga">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.wsHanaUnidadesOrganizativas.DT_CONSULTA_UNIDAD_ORGANIZATIVA_REQ.Sociedad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.wsHanaUnidadesOrganizativas.DT_CONSULTA_UNIDAD_ORGANIZATIVA_REQ.Unidad_OrgSup">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.wsHanaUnidadesOrganizativas.DT_CONSULTA_UNIDAD_ORGANIZATIVA_REQ.Desc_UnidadOrga">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.wsHanaUnidadesOrganizativas.DT_CONSULTA_UNIDAD_ORGANIZATIVA_REQ.Codigo_Responsable">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.wsHanaUnidadesOrganizativas.DT_CONSULTA_UNIDAD_ORGANIZATIVA_REQ.Sit_Func">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.wsHanaUnidadesOrganizativas.DT_CONSULTA_UNIDAD_ORGANIZATIVA_RESIT_ZUND_ORGANIZATIV">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.wsHanaUnidadesOrganizativas.DT_CONSULTA_UNIDAD_ORGANIZATIVA_RESIT_ZUND_ORGANIZATIV.Corporacion">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.wsHanaUnidadesOrganizativas.DT_CONSULTA_UNIDAD_ORGANIZATIVA_RESIT_ZUND_ORGANIZATIV.Sociedad">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.wsHanaUnidadesOrganizativas.DT_CONSULTA_UNIDAD_ORGANIZATIVA_RESIT_ZUND_ORGANIZATIV.Unidad_Orga">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.wsHanaUnidadesOrganizativas.DT_CONSULTA_UNIDAD_ORGANIZATIVA_RESIT_ZUND_ORGANIZATIV.Unid_Organiz_Sup">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.wsHanaUnidadesOrganizativas.DT_CONSULTA_UNIDAD_ORGANIZATIVA_RESIT_ZUND_ORGANIZATIV.Desc_Unidad_Orga">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.wsHanaUnidadesOrganizativas.DT_CONSULTA_UNIDAD_ORGANIZATIVA_RESIT_ZUND_ORGANIZATIV.Codigo_Responsable">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.wsHanaUnidadesOrganizativas.DT_CONSULTA_UNIDAD_ORGANIZATIVA_RESIT_ZUND_ORGANIZATIV.Funciones">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.wsHanaUnidadesOrganizativas.DT_CONSULTA_UNIDAD_ORGANIZATIVA_RESIT_ZUND_ORGANIZATIV.Sit_Unid_Func">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.wsHanaUnidadesOrganizativas.DT_CONSULTA_UNIDAD_ORGANIZATIVA_RESIT_ZUND_ORGANIZATIV.Nivel">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.wsHanaUnidadesOrganizativas.SI_OS_CONSULTA_UNIDAD_ORGANIZATIVACompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:ServicioExterno.wsHanaUnidadesOrganizativas.SI_OS_CONSULTA_UNIDAD_ORGANIZATIVACompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:ServicioExterno.wsHanaUnidadesOrganizativas.SI_OS_CONSULTA_UNIDAD_ORGANIZATIVACompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>
